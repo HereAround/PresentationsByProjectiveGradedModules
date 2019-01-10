@@ -17,7 +17,7 @@ Persons := [
     FirstNames := "Martin",
     LastName := "Bies",
     WWWHome := "https://www.ulb.ac.be/sciences/ptm/pmif/people.html",
-    Email := "bies@thphys.uni-heidelberg.de",
+    Email := "martin.bies@alumni.uni-heidelberg.de",
     PostalAddress := Concatenation( 
                  "Institut für theoretische Physik - Heidelberg \n",
                  "Philosophenweg 19 \n",
