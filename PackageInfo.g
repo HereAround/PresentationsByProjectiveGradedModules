@@ -30,7 +30,7 @@ Persons := [
   ),  
 ],
 
-PackageWWWHome := "",
+PackageWWWHome := "https://github.com/HereAround/PresentationsByProjectiveGradedModules",
 
 ArchiveURL     := Concatenation( ~.PackageWWWHome, "PresentationsByProjectiveGradedModules-", ~.Version ),
 README_URL     := Concatenation( ~.PackageWWWHome, "README" ),
