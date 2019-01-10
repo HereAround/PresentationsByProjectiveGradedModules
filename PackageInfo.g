@@ -25,8 +25,8 @@ Persons := [
                  "Building NO - Level 6 - Office O.6.111 \n",
                  "1050 Brussels \n",
                  "Belgium" ), 
-    Place := "Heidelberg",
-    Institution := "ITP Heidelberg",
+    Place := "Brussels",
+    Institution := "ULB Brussels",
   ),  
 ],
 
