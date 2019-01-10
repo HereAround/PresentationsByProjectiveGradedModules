@@ -143,7 +143,7 @@ DeclareGlobalFunction( "GradedSubmoduleFromMorphism" );
 
 #! @Description
 #! The argument is a morphism of projective graded left modules <A>a</A>. The kernel embedding of $a$ is then
-#! used to define a left presentation that we embed into the projective module $\text{Range} \left( a \right)$. 
+#! used to define a left presentation that we embed into the projective module Range(a). 
 #! Thereby we constructed a graded left submodule.
 #! @Returns a graded left submodule for CAP
 #! @Arguments a
@@ -152,7 +152,7 @@ DeclareOperation( "GradedLeftSubmoduleForCAP",
 
 #! @Description
 #! The argument is a morphism of projective graded right modules <A>a</A>. The kernel embedding of $a$ is then
-#! used to define a right presentation that we embed into the projective module $\text{Range} \left( a \right)$. 
+#! used to define a right presentation that we embed into the projective module Range(a). 
 #! Thereby we constructed a graded left submodule.
 #! @Returns a graded right submodule for CAP
 #! @Arguments a
