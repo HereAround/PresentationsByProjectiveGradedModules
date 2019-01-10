@@ -18,11 +18,13 @@ Persons := [
     LastName := "Bies",
     WWWHome := "https://www.ulb.ac.be/sciences/ptm/pmif/people.html",
     Email := "martin.bies@alumni.uni-heidelberg.de",
-    PostalAddress := Concatenation( 
-                 "Institut für theoretische Physik - Heidelberg \n",
-                 "Philosophenweg 19 \n",
-                 "69120 Heidelberg \n",
-                 "Germany" ), 
+    PostalAddress := Concatenation(
+                 "Physique Théorique et Mathématique \n",
+                 "Université Libre de Bruxelles \n",
+                 "Campus Plaine - CP 231 \n",
+                 "Building NO - Level 6 - Office O.6.111 \n",
+                 "1050 Brussels \n",
+                 "Belgium" ), 
     Place := "Heidelberg",
     Institution := "ITP Heidelberg",
   ),  
