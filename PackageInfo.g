@@ -3,7 +3,7 @@ SetPackageInfo( rec(
 PackageName := "PresentationsByProjectiveGradedModules",
 Subtitle := "Graded module presentations for CAP over a graded ring",
 Version := Maximum( [
-           "2016.03.15", # Martin's version
+           "2019.03.15", # Martin's version
            "2019.01.10", # Martin's version
            ##
            ] ),
@@ -63,13 +63,13 @@ PackageDoc := rec(
 Dependencies := rec(
   GAP := ">= 4.6",
   NeededOtherPackages := [ [ "GAPDoc", ">= 1.5" ],
-                           [ "AutoDoc", ">=2016.02.16" ],
-                           [ "MatricesForHomalg", ">= 2015.11.06" ],
-                           [ "GradedRingForHomalg", ">= 2015.12.04" ],
-                           [ "CAP", ">= 2016.02.19" ],
-                           [ "CAPCategoryOfProjectiveGradedModules", ">=2016.03.15" ],
-                           [ "CAPPresentationCategory", ">=2016.03.15" ],
-                           [ "ComplexesAndFilteredObjectsForCAP", ">=2015.10.20" ],
+                           [ "AutoDoc", ">=2019.02.16" ],
+                           [ "MatricesForHomalg", ">= 2019.11.06" ],
+                           [ "GradedRingForHomalg", ">= 2019.12.04" ],
+                           [ "CAP", ">= 2019.02.19" ],
+                           [ "CAPCategoryOfProjectiveGradedModules", ">=2019.03.15" ],
+                           [ "CAPPresentationCategory", ">=2019.03.15" ],
+                           [ "ComplexesAndFilteredObjectsForCAP", ">=2019.10.20" ],
   ],
   SuggestedOtherPackages := [ ],
   ExternalConditions := [ ],
