@@ -5,8 +5,8 @@
 ##
 ##  Copyright 2019      ULB Brussels
 ##
-##  A package to handle the category of projective graded modules
-##  in the language of CAP
+##  A package to build the category of presentations by projective graded
+##  modules along the philosophy of a Freyd category
 ##
 #############################################################################
 
